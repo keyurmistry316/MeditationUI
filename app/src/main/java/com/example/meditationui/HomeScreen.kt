@@ -171,7 +171,6 @@ fun BottomMenuItem(
     inactiveTextColor: Color = AquaBlue,
     onClick: () -> Unit
 ) {
-
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
